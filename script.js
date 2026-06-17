@@ -25,7 +25,7 @@ const TRANSLATIONS = {
     'info-interests-h': 'Research Interests',
     'info-interests-list': '<li>Digital reassurance-seeking</li><li>Anxiety &amp; attachment in emerging adults</li><li>Social media &amp; adolescent well-being</li><li>Scale development &amp; validation</li><li>Cognitive factors in online behaviour</li>',
     'info-edu-h': 'Education',
-    'info-edu-p': 'B.A. (Hons.), Psychology<br>King\'s University College, Western University<br><em>Expected June 2026</em>',
+    'info-edu-p': 'B.A. (Hons.), Psychology<br>King\'s University College, Western University<br>June 2026',
     'info-contact-h': 'Contact',
 
     'lbl-research': 'Research',
@@ -121,7 +121,7 @@ const TRANSLATIONS = {
     'info-interests-h': 'Intérêts de recherche',
     'info-interests-list': '<li>Recherche de réassurance numérique</li><li>Anxiété et attachement chez les jeunes adultes</li><li>Médias sociaux et bien-être des adolescents</li><li>Développement et validation d\'outils</li><li>Facteurs cognitifs dans le comportement en ligne</li>',
     'info-edu-h': 'Formation',
-    'info-edu-p': 'B.A. (avec distinction), Psychologie<br>King\'s University College, Université Western<br><em>Prévu juin 2026</em>',
+    'info-edu-p': 'B.A. (avec distinction), Psychologie<br>King\'s University College, Université Western<br>Juin 2026',
     'info-contact-h': 'Contact',
 
     'lbl-research': 'Recherche',
