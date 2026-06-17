@@ -14,9 +14,9 @@ const TRANSLATIONS = {
 
     'lbl-about': 'About',
     'h2-about':  'Background &amp; Research Interests',
-    'bio-1': 'I am a psychology researcher and post-degree Research Assistant at King\'s University College, Western University, where I recently completed an Honours Specialization in Psychology (Dean\'s Honour List; 90%+ cumulative average). My work sits at the intersection of digital behaviour, clinical psychology, and developmental science.',
+    'bio-1': 'I am a psychology researcher and post-bachelor\'s Research Assistant at King\'s University College, Western University, where I recently completed an Honours Specialization in Psychology (Dean\'s Honour List; 90%+ cumulative average). My work sits at the intersection of digital behaviour, clinical psychology, and developmental science.',
     'bio-2': 'My Honours thesis investigated <strong>digital reassurance-seeking</strong> (the tendency to seek relief from anxiety through online platforms), examining how cognitive and attachment factors predict these behaviours in emerging adults. This project involved developing and validating two novel psychological measurement scales, from ethics submission through to data collection and quantitative analysis in R.',
-    'bio-3': 'I am currently extending this research as a post-degree Research Assistant, contributing to manuscript preparation for peer-reviewed journal submission, follow-up data collection via Prolific, and continued analysis in R and Mplus. I bring a strong background in quantitative methods and open-science practices, alongside over a decade of direct experience in community mental health, crisis intervention, and child and family services.',
+    'bio-3': 'I am currently extending this research as a post-bachelor\'s Research Assistant, contributing to manuscript preparation for peer-reviewed journal submission, follow-up data collection via Prolific, and continued analysis in R and Mplus. I bring a strong background in quantitative methods and open-science practices, alongside over a decade of direct experience in community mental health, crisis intervention, and child and family services.',
 
     'info-affil-h':     'Affiliation',
     'info-affil-p':     'King\'s University College<br>Department of Psychology<br>Western University, London, ON',
@@ -32,9 +32,9 @@ const TRANSLATIONS = {
     'h2-research':  'Projects &amp; Experience',
     'badge-featured': 'Current &amp; Featured',
     'h3-featured':    'Digital Reassurance-Seeking in Emerging Adults',
-    'featured-role':  'Post-Degree Research Assistant and Undergraduate Honours Thesis, King\'s University College, May 2025&ndash;Present',
+    'featured-role':  'Post-Bachelor\'s Research Assistant and Undergraduate Honours Thesis, King\'s University College, May 2025&ndash;Present',
     'featured-p1': 'This project examines the cognitive and attachment factors that predict online reassurance-seeking behaviours in emerging adults (the tendency to seek relief from anxiety through digital platforms such as social media and messaging). Working under the supervision of Dr. Wendy Ellis, the thesis involved an independent full-cycle research project: ethics submission, novel scale development and validation (two new measures), Qualtrics survey construction, participant recruitment, and comprehensive quantitative analysis in R.',
-    'featured-p2': 'I am currently continuing as a post-degree Research Assistant, contributing to manuscript preparation for peer-reviewed journal submission, additional participant recruitment via Prolific, and further analysis including structural equation modelling in Mplus.',
+    'featured-p2': 'I am currently continuing as a post-bachelor\'s Research Assistant, contributing to manuscript preparation for peer-reviewed journal submission, additional participant recruitment via Prolific, and further analysis including structural equation modelling in Mplus.',
     'featured-tags': '<span>Honours Thesis</span><span>Scale Development</span><span>Attachment Theory</span><span>Cognitive Factors</span><span>Anxiety</span><span>Emerging Adults</span><span>R &amp; Mplus</span><span>Qualtrics</span><span>Prolific</span><span>OSF</span>',
 
     'card1-date': 'Jan &ndash; Apr 2025',
@@ -110,9 +110,9 @@ const TRANSLATIONS = {
 
     'lbl-about': 'À propos',
     'h2-about':  'Parcours et intérêts de recherche',
-    'bio-1': 'Je suis chercheuse en psychologie et assistante de recherche diplômée au King\'s University College de l\'Université Western, où j\'ai récemment obtenu une spécialisation avec distinction en psychologie (Liste d\'honneur du doyen; moyenne cumulative supérieure à 90 %). Mes travaux se situent à l\'intersection du comportement numérique, de la psychologie clinique et des sciences du développement.',
+    'bio-1': 'Je suis chercheuse en psychologie et assistante de recherche post-baccalauréat au King\'s University College de l\'Université Western, où j\'ai récemment obtenu une spécialisation avec distinction en psychologie (Liste d\'honneur du doyen; moyenne cumulative supérieure à 90 %). Mes travaux se situent à l\'intersection du comportement numérique, de la psychologie clinique et des sciences du développement.',
     'bio-2': 'Mon mémoire de fin d\'études a porté sur la <strong>recherche de réassurance numérique</strong> (la tendance à chercher un soulagement à l\'anxiété par le biais des plateformes en ligne), en examinant comment les facteurs cognitifs et d\'attachement prédisent ces comportements chez les jeunes adultes. Ce projet a impliqué le développement et la validation de deux nouvelles échelles de mesure psychologique, de la soumission éthique à la collecte de données et à l\'analyse quantitative dans R.',
-    'bio-3': 'Je poursuis actuellement cette recherche en tant qu\'assistante de recherche diplômée, en contribuant à la préparation d\'un manuscrit pour une revue avec comité de lecture, à la collecte de données de suivi via Prolific et à des analyses supplémentaires dans R et Mplus. Je dispose d\'une solide formation en méthodes quantitatives et en pratiques de science ouverte, en plus d\'une décennie d\'expérience directe en santé mentale communautaire, en intervention de crise et en services à l\'enfance et à la famille.',
+    'bio-3': 'Je poursuis actuellement cette recherche en tant qu\'assistante de recherche post-baccalauréat, en contribuant à la préparation d\'un manuscrit pour une revue avec comité de lecture, à la collecte de données de suivi via Prolific et à des analyses supplémentaires dans R et Mplus. Je dispose d\'une solide formation en méthodes quantitatives et en pratiques de science ouverte, en plus d\'une décennie d\'expérience directe en santé mentale communautaire, en intervention de crise et en services à l\'enfance et à la famille.',
 
     'info-affil-h':     'Établissement',
     'info-affil-p':     'King\'s University College<br>Département de psychologie<br>Université Western, London, ON',
@@ -128,9 +128,9 @@ const TRANSLATIONS = {
     'h2-research':  'Projets et expérience',
     'badge-featured': 'Actuel et mis en avant',
     'h3-featured':    'Recherche de réassurance numérique chez les jeunes adultes',
-    'featured-role':  'Assistante de recherche diplômée et mémoire de fin d\'études, King\'s University College, mai 2025&ndash;présent',
+    'featured-role':  'Assistante de recherche post-baccalauréat et mémoire de fin d\'études, King\'s University College, mai 2025&ndash;présent',
     'featured-p1': 'Ce projet examine les facteurs cognitifs et d\'attachement qui prédisent les comportements de recherche de réassurance en ligne chez les jeunes adultes (la tendance à chercher un soulagement à l\'anxiété via des plateformes numériques telles que les réseaux sociaux et la messagerie). Sous la supervision de Dre Wendy Ellis, le mémoire a impliqué un projet de recherche indépendant complet: soumission éthique, développement et validation de nouvelles échelles (deux nouveaux outils de mesure), construction d\'une enquête Qualtrics, recrutement de participants et analyse quantitative approfondie dans R.',
-    'featured-p2': 'Je poursuis actuellement ces travaux en tant qu\'assistante de recherche diplômée, en contribuant à la préparation d\'un manuscrit pour une revue avec comité de lecture, au recrutement de participants supplémentaires via Prolific et à des analyses plus approfondies, notamment la modélisation par équations structurelles dans Mplus.',
+    'featured-p2': 'Je poursuis actuellement ces travaux en tant qu\'assistante de recherche post-baccalauréat, en contribuant à la préparation d\'un manuscrit pour une revue avec comité de lecture, au recrutement de participants supplémentaires via Prolific et à des analyses plus approfondies, notamment la modélisation par équations structurelles dans Mplus.',
     'featured-tags': '<span>Mémoire de fin d\'études</span><span>Développement d\'outils</span><span>Théorie de l\'attachement</span><span>Facteurs cognitifs</span><span>Anxiété</span><span>Jeunes adultes</span><span>R &amp; Mplus</span><span>Qualtrics</span><span>Prolific</span><span>OSF</span>',
 
     'card1-date': 'Jan. &ndash; avr. 2025',
